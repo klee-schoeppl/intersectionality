@@ -454,3 +454,4 @@ to-report rndMaxIndex [input]
   let indices n-values length input [ ? -> ifelse-value (item ? input = maxValue) [?][false]]
   let results filter [i -> i != false] indices
   report one-of results
+end

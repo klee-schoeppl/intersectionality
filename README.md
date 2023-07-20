@@ -11,6 +11,6 @@ This repo contains an extension of the base model from Rubin and O’Connor 2018
 * Amy Allen (2022) *“Feminist Perspectives on Power.”*
 * Justin P. Bruner (2019) *“Minority (dis) advantage in population games.”*
 * Cailin O’Connor (2019) *“The origins of unfairness: Social categories and cultural evolution.”*
-* Cailin O’Connor, Liam Kofi Bright & Justin P Bruner (2019) *“The emergence of intersectional disadvantage.”*
+* Cailin O’Connor, Liam Kofi Bright & Justin P. Bruner (2019) *“The emergence of intersectional disadvantage.”*
 * Cailin O’Connor & Justin P. Bruner (2019) *“Dynamics and diversity in epistemic communities.”*
 * Hannah Rubin & Cailin O’Connor (2018) *“Discrimination and collaboration in science.”*
